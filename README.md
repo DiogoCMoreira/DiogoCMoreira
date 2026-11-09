@@ -10,7 +10,7 @@ Python · SQL · Java · PHP · C · HTML · CSS · Git
 Montagem e manutenção de computadores.
 
 ## Projetos em destaque
-- [analise-dados-python-sql](https://github.com/DiogoCMoreira/analise-dados-python-sql) – Análise de um conjunto de dados com Python e SQL, com gráficos e conclusões.
+- [Loja em C](https://github.com/DiogoCMoreira/LojaemC) – Projeto de uma Loja em C ela faz Armazenamento preenche Campos, ID, Alterar / Excluir, Ordenação, Busca, etc.
 - [guia-manutencao-computadores](https://github.com/DiogoCMoreira/guia-manutencao-computadores) – Guia prático de montagem, manutenção e diagnóstico de computadores.
 
 ## Contato
